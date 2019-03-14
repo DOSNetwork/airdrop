@@ -9,6 +9,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "assert": "^1.4.1",
+    "ethereumjs-util": "^6.1.0",
     "exceljs": "^1.7.0"
   },
   "devDependencies": {
